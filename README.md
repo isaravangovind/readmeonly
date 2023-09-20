@@ -1,2 +1,2 @@
 # readmeonly
-samplegit - only readme
+samplegit - only readme file
